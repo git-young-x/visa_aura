@@ -1,10 +1,10 @@
 # Aura Sentinel: Agentic Merchant Terminal
 
 ## What This Prototype Is
-Aura Sentinel is a 0-to-1 commercial decision engine prototype designed for enterprise merchants. It transitions the payment dashboard experience from passive data visualization to active, AI-driven orchestration. By utilizing a multi-agent topology, it autonomously identifies revenue leakage, spots international market growth opportunities, and provides mathematically verified recommendations to deploy Visa Value-Added Services (VAS).
+Aura Sentinel is a commercial decision engine prototype designed for enterprise merchants. It transitions the payment dashboard experience from passive data visualization to active, AI-driven orchestration. It uses a multi-agent topology, it autonomously identifies revenue leakage, spots international market growth opportunities, and provides mathematically verified recommendations to deploy Visa Value-Added Services (VAS).
 
 ## Tooling & Methodology
-This high-fidelity prototype was built using **Hermes**. For this 0-to-1 validation phase, Hermes was chosen to maintain a rapid "vibe coding" flow state, allowing for the generation of a portable, single-file SPA (Single Page Application) that focuses entirely on the visual storytelling and agentic reasoning traces without the overhead of a heavy local development environment. 
+This prototype was built using **Hermes** agent.
 
 ## Problem Statement
 Enterprise merchants face a "cognitive gap" between raw payment telemetry and commercial execution. 
